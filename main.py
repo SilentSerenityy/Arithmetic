@@ -35,6 +35,7 @@ print("The quotient of your two numbers is:\t",x,"/",y,"=",d,"\n")
 print("The quotient in floor division of your two numbers is:\t",x,"//",y,"=",e,"\n")
 print("When your two numbers were randomly ranged, the number that was picked from",x,"to",y,"was:\t",h,"\n")
 print("When you two numbers were moduled by modulo, the remainder was:\t",g)
+#simple and very general number analysis
 
 while True:
   z = input("\nWould you like to see what your two numbers put to the power of each other was? It has been hidden because the number would be way too large to show... \t")
@@ -53,8 +54,10 @@ while True:
 time.sleep(3)
 
 print("\nAlright, let us insert some values into Quadratic Equations!\nA Qaudratic Equation goes as such:\t x = -(b) ± √(b)² + 4(a)(c)/ 2(a)\n")
+#this was quite a doozy copying and pasting the individual parts of this equation, such as the positive/negative sign, squared symbol, and square root symbol
+
 print("I will let you take this in for a while, so you can try to understand this.")
-time.sleep(3)
+time.sleep(5)
 print("\nWhy don't you put some numbers in?")
 
 xx = int(input("\nWhat would you like 'a' to be equal to? : "))
@@ -73,3 +76,4 @@ time.sleep(3)
 
 print("Alright, we have plugged in the given variables and simplified the equation. This is what we have:\tx =",aa,"± √",ee,"/",dd,"\n")
 print("The sqaure root of",ee,"is:\t",ff)
+#I'll need to finish from these
