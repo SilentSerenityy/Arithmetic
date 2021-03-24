@@ -3,7 +3,7 @@ from threading import Thread
 app = Flask('')
 @app.route('/')
 def main():
-    return 'Russian Roulette is a go'
+    return 'Arithmetic is a go'
 
 def run():
     app.run(host='0.0.0.0', port=3000)
