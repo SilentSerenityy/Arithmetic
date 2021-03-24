@@ -4,5 +4,5 @@ I might try this in Java or JavaScript.
 
 Here is the HTML link to the calculator : https://Arithmetic.silentserenity.repl.co
 
-**Currently updating the Russian Roulette Bot code in that folder, it will be done in a few hours.**
-**Then you'll have a good Arithmetic Bot!**
+Now I made a Discord Bot code revolving around this!!
+March 24th, 2021 | 16:18 UTC-5
