@@ -77,13 +77,11 @@ time.sleep(3)
 print("Alright, we have plugged in the given variables and simplified the equation. This is what we have:\tx =",aa,"± √",ee,"/",dd,"\n")
 print("\nThe sqaure root of",ee,"is:\t",ff)
 
-gg = ff / dd
+gg = ff / dd      #i put b^2 - 4ac / 2a
 
-hh = aa + gg
-ii = aa - gg
+hh = aa + gg      #plus, or
+ii = aa - gg      #minus
 
 print("\nOkay, further simplifying, we get:\tx =",aa,"±",gg)
 print("\nIn finality!\n x can be equal to\t",hh,"\nOr it can be equal to\t",ii)
 print()
-
-#I'll need to finish from these
